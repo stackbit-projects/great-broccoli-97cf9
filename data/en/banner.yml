@@ -14,5 +14,5 @@ banner:
     dalle sorgenti[2][3].
   button:
     enable: true
-    label: Explore Us
+    label: Mappa
     link: '#services'
