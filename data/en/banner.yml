@@ -5,8 +5,13 @@ banner:
   icon: ''
   title: Dese
   content: >-
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+    Il Dese nasce da risorgive in località Brentanella, appena più a nord di
+    Resana e non lontano dalle sorgenti di Sile, Marzenego, Draganziolo e Zero.
+    Raggiunge subito una ragguardevole portata grazie alla confluenza dei vari
+    canali di bonifica (in particolare Musoncello e Musonello) derivati dal
+    cosiddetto nodo idraulico di Castelfranco Veneto, a sua volta alimentato dal
+    torrente Musone. Per questo motivo, il fiume risulta arginato sin quasi
+    dalle sorgenti[2][3].
   button:
     enable: true
     label: Explore Us
